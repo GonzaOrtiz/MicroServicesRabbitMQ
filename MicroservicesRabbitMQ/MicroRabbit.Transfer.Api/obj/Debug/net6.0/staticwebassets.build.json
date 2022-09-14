@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S/zujLl4RGQrySXDTZsQAlD/MI9jShLJeTqy09wUn0Q=",
+  "Source": "MicroRabbit.Transfer.Api",
+  "BasePath": "_content/MicroRabbit.Transfer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

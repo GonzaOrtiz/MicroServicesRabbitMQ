@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DaQt9DDvKgHBBSS15/xylnjK2PCCeUogQzid6n78zkI=",
+  "Source": "MicroRabbit.Banking.Api",
+  "BasePath": "_content/MicroRabbit.Banking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

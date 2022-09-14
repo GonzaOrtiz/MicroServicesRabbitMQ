@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89c5ed41-562f-40db-b6c4-9e1dc4d2f8eb": {
+      "ProjectGuid": "89c5ed41-562f-40db-b6c4-9e1dc4d2f8eb",
+      "DisplayName": "MicroRabbit.Domain.Core",
+      "ColorIndex": 0
+    },
+    "fcbbcc09-e23d-40c0-89d6-c96633c06e92": {
+      "ProjectGuid": "fcbbcc09-e23d-40c0-89d6-c96633c06e92",
+      "DisplayName": "MicroRabbit.Infra.Bus",
+      "ColorIndex": 1
+    },
+    "1cb90ffe-3636-4a2c-9a0f-146200185d87": {
+      "ProjectGuid": "1cb90ffe-3636-4a2c-9a0f-146200185d87",
+      "DisplayName": "MicroRabbit.Infra.IoC",
+      "ColorIndex": 2
+    },
+    "cc928d39-90bf-4d0d-9a29-1016bfabd918": {
+      "ProjectGuid": "cc928d39-90bf-4d0d-9a29-1016bfabd918",
+      "DisplayName": "MicroRabbit.Banking.Application",
+      "ColorIndex": 3
+    },
+    "12d8a9ca-a79e-495f-87ec-6ebdcd2cdbc3": {
+      "ProjectGuid": "12d8a9ca-a79e-495f-87ec-6ebdcd2cdbc3",
+      "DisplayName": "MicroRabbit.Banking.Data",
+      "ColorIndex": 4
+    },
+    "aff4e3af-d81a-411e-b86f-4d40e8eff6ae": {
+      "ProjectGuid": "aff4e3af-d81a-411e-b86f-4d40e8eff6ae",
+      "DisplayName": "MicroRabbit.Banking.Domain",
+      "ColorIndex": 5
+    },
+    "015da513-fb79-4cf1-a38c-5829ba3c3710": {
+      "ProjectGuid": "015da513-fb79-4cf1-a38c-5829ba3c3710",
+      "DisplayName": "MicroRabbit.Banking.Api",
+      "ColorIndex": 6
+    },
+    "b08f3bb9-4bd7-42e3-abf5-cb74c51f4214": {
+      "ProjectGuid": "b08f3bb9-4bd7-42e3-abf5-cb74c51f4214",
+      "DisplayName": "MicroRabbit.Transfer.Application",
+      "ColorIndex": 7
+    },
+    "bcc90abf-fc2f-4ccd-9776-c7030a6e2fbb": {
+      "ProjectGuid": "bcc90abf-fc2f-4ccd-9776-c7030a6e2fbb",
+      "DisplayName": "MicroRabbit.Transfer.Data",
+      "ColorIndex": 8
+    },
+    "4038e835-68eb-4bda-a0b5-6a21322715db": {
+      "ProjectGuid": "4038e835-68eb-4bda-a0b5-6a21322715db",
+      "DisplayName": "MicroRabbit.Transfer.Domain",
+      "ColorIndex": 9
+    },
+    "3290c841-d71f-431e-b739-fbb100616af7": {
+      "ProjectGuid": "3290c841-d71f-431e-b739-fbb100616af7",
+      "DisplayName": "MicroRabbit.Transfer.Api",
+      "ColorIndex": 10
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 11
+}
